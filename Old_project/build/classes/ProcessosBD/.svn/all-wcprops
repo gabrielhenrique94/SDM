@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/a6pgp/!svn/ver/4972/A2011/wic/build/classes/ProcessosBD
+END
+Paciente.class
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/a6pgp/!svn/ver/3878/A2011/wic/build/classes/ProcessosBD/Paciente.class
+END
+Doenca.class
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/a6pgp/!svn/ver/3878/A2011/wic/build/classes/ProcessosBD/Doenca.class
+END
+Conexao.class
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/a6pgp/!svn/ver/3878/A2011/wic/build/classes/ProcessosBD/Conexao.class
+END
+SintomaDAO.class
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/a6pgp/!svn/ver/4972/A2011/wic/build/classes/ProcessosBD/SintomaDAO.class
+END
+Medico.class
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/a6pgp/!svn/ver/3878/A2011/wic/build/classes/ProcessosBD/Medico.class
+END
+EspecialidadeDAO.class
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/a6pgp/!svn/ver/4972/A2011/wic/build/classes/ProcessosBD/EspecialidadeDAO.class
+END
+FichaMedicaDAO.class
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/a6pgp/!svn/ver/4972/A2011/wic/build/classes/ProcessosBD/FichaMedicaDAO.class
+END
+SintomaPeso.class
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/a6pgp/!svn/ver/3878/A2011/wic/build/classes/ProcessosBD/SintomaPeso.class
+END
+TratamentoDAO.class
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/a6pgp/!svn/ver/4972/A2011/wic/build/classes/ProcessosBD/TratamentoDAO.class
+END
+DAO.class
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/a6pgp/!svn/ver/3878/A2011/wic/build/classes/ProcessosBD/DAO.class
+END
+ConsultorioDAO.class
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/a6pgp/!svn/ver/4972/A2011/wic/build/classes/ProcessosBD/ConsultorioDAO.class
+END
+CasoDAO.class
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/a6pgp/!svn/ver/4972/A2011/wic/build/classes/ProcessosBD/CasoDAO.class
+END
+Sintoma.class
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/a6pgp/!svn/ver/3878/A2011/wic/build/classes/ProcessosBD/Sintoma.class
+END
+UsuarioDAO.class
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/a6pgp/!svn/ver/4972/A2011/wic/build/classes/ProcessosBD/UsuarioDAO.class
+END
+PacienteDAO.class
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/a6pgp/!svn/ver/4972/A2011/wic/build/classes/ProcessosBD/PacienteDAO.class
+END
+Especialidade.class
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/a6pgp/!svn/ver/3878/A2011/wic/build/classes/ProcessosBD/Especialidade.class
+END
+FichaMedica.class
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/a6pgp/!svn/ver/3878/A2011/wic/build/classes/ProcessosBD/FichaMedica.class
+END
+DoencaDAO.class
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/a6pgp/!svn/ver/4972/A2011/wic/build/classes/ProcessosBD/DoencaDAO.class
+END
+Tratamento.class
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/a6pgp/!svn/ver/3878/A2011/wic/build/classes/ProcessosBD/Tratamento.class
+END
+Consultorio.class
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/a6pgp/!svn/ver/3878/A2011/wic/build/classes/ProcessosBD/Consultorio.class
+END
+MedicoDAO.class
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/a6pgp/!svn/ver/4972/A2011/wic/build/classes/ProcessosBD/MedicoDAO.class
+END
+Caso.class
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/a6pgp/!svn/ver/3878/A2011/wic/build/classes/ProcessosBD/Caso.class
+END
+SintomaPesoDAO.class
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/a6pgp/!svn/ver/4972/A2011/wic/build/classes/ProcessosBD/SintomaPesoDAO.class
+END
+Usuario.class
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/a6pgp/!svn/ver/4303/A2011/wic/build/classes/ProcessosBD/Usuario.class
+END

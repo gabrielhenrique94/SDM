@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/a6pgp/!svn/ver/5657/A2011/wic/src/DAO
+END
+PacienteDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/a6pgp/!svn/ver/5657/A2011/wic/src/DAO/PacienteDAO.java
+END
+DoencaDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/a6pgp/!svn/ver/5644/A2011/wic/src/DAO/DoencaDAO.java
+END
+EspecialidadeMedicoDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/a6pgp/!svn/ver/5644/A2011/wic/src/DAO/EspecialidadeMedicoDAO.java
+END
+MedicoDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/a6pgp/!svn/ver/5647/A2011/wic/src/DAO/MedicoDAO.java
+END
+MedicoConsultorioDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/a6pgp/!svn/ver/5644/A2011/wic/src/DAO/MedicoConsultorioDAO.java
+END
+UsuarioNovoSinDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/a6pgp/!svn/ver/5644/A2011/wic/src/DAO/UsuarioNovoSinDAO.java
+END
+SintomaDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/a6pgp/!svn/ver/5644/A2011/wic/src/DAO/SintomaDAO.java
+END
+NovoSintomaDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/a6pgp/!svn/ver/5656/A2011/wic/src/DAO/NovoSintomaDAO.java
+END
+MedicoLocalDeAtendimentoDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/a6pgp/!svn/ver/5644/A2011/wic/src/DAO/MedicoLocalDeAtendimentoDAO.java
+END
+EspecialidadeDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/a6pgp/!svn/ver/5644/A2011/wic/src/DAO/EspecialidadeDAO.java
+END
+NovaDoencaDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/a6pgp/!svn/ver/5644/A2011/wic/src/DAO/NovaDoencaDAO.java
+END
+FichaMedicaDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/a6pgp/!svn/ver/5646/A2011/wic/src/DAO/FichaMedicaDAO.java
+END
+TratamentoDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/a6pgp/!svn/ver/5644/A2011/wic/src/DAO/TratamentoDAO.java
+END
+DAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/a6pgp/!svn/ver/5644/A2011/wic/src/DAO/DAO.java
+END
+AgendaDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/a6pgp/!svn/ver/5650/A2011/wic/src/DAO/AgendaDAO.java
+END
+ConsultorioDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/a6pgp/!svn/ver/5644/A2011/wic/src/DAO/ConsultorioDAO.java
+END
+CasoDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/a6pgp/!svn/ver/5644/A2011/wic/src/DAO/CasoDAO.java
+END
+UsuarioNovaDoencaDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/a6pgp/!svn/ver/5644/A2011/wic/src/DAO/UsuarioNovaDoencaDAO.java
+END
+EspecialidadeDoencaDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/a6pgp/!svn/ver/5644/A2011/wic/src/DAO/EspecialidadeDoencaDAO.java
+END
+UsuarioDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/a6pgp/!svn/ver/5647/A2011/wic/src/DAO/UsuarioDAO.java
+END

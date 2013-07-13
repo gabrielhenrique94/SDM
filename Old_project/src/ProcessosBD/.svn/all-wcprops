@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/a6pgp/!svn/ver/5647/A2011/wic/src/ProcessosBD
+END
+NovaDoenca.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/a6pgp/!svn/ver/4936/A2011/wic/src/ProcessosBD/NovaDoenca.java
+END
+FichaMedica.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/a6pgp/!svn/ver/3880/A2011/wic/src/ProcessosBD/FichaMedica.java
+END
+Tratamento.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/a6pgp/!svn/ver/5361/A2011/wic/src/ProcessosBD/Tratamento.java
+END
+Agenda.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/a6pgp/!svn/ver/4505/A2011/wic/src/ProcessosBD/Agenda.java
+END
+Consultorio.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/a6pgp/!svn/ver/3880/A2011/wic/src/ProcessosBD/Consultorio.java
+END
+SintomaCaso.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/a6pgp/!svn/ver/5108/A2011/wic/src/ProcessosBD/SintomaCaso.java
+END
+TratamentoCaso.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/a6pgp/!svn/ver/5108/A2011/wic/src/ProcessosBD/TratamentoCaso.java
+END
+Caso.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/a6pgp/!svn/ver/3880/A2011/wic/src/ProcessosBD/Caso.java
+END
+UsuarioNovaDoenca.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/a6pgp/!svn/ver/5424/A2011/wic/src/ProcessosBD/UsuarioNovaDoenca.java
+END
+EspecialidadeDoenca.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/a6pgp/!svn/ver/5108/A2011/wic/src/ProcessosBD/EspecialidadeDoenca.java
+END
+Usuario.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/a6pgp/!svn/ver/4065/A2011/wic/src/ProcessosBD/Usuario.java
+END
+Paciente.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/a6pgp/!svn/ver/5587/A2011/wic/src/ProcessosBD/Paciente.java
+END
+Doenca.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/a6pgp/!svn/ver/5361/A2011/wic/src/ProcessosBD/Doenca.java
+END
+Conexao.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/a6pgp/!svn/ver/3880/A2011/wic/src/ProcessosBD/Conexao.java
+END
+EspecialidadeMedico.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/a6pgp/!svn/ver/5108/A2011/wic/src/ProcessosBD/EspecialidadeMedico.java
+END
+Medico.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/a6pgp/!svn/ver/5647/A2011/wic/src/ProcessosBD/Medico.java
+END
+MedicoConsultorio.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/a6pgp/!svn/ver/5108/A2011/wic/src/ProcessosBD/MedicoConsultorio.java
+END
+SintomaPeso.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/a6pgp/!svn/ver/5486/A2011/wic/src/ProcessosBD/SintomaPeso.java
+END
+UsuarioNovoSin.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/a6pgp/!svn/ver/5424/A2011/wic/src/ProcessosBD/UsuarioNovoSin.java
+END
+Sintoma.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/a6pgp/!svn/ver/5361/A2011/wic/src/ProcessosBD/Sintoma.java
+END
+NovoSintoma.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/a6pgp/!svn/ver/5426/A2011/wic/src/ProcessosBD/NovoSintoma.java
+END
+MedicoLocalDeAtendimento.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/a6pgp/!svn/ver/4924/A2011/wic/src/ProcessosBD/MedicoLocalDeAtendimento.java
+END
+Especialidade.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/a6pgp/!svn/ver/3880/A2011/wic/src/ProcessosBD/Especialidade.java
+END
