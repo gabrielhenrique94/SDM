@@ -1,4 +1,2 @@
 SDM
 ===
-
-Sistema diagnostico Medico
